@@ -5,3 +5,5 @@
 .idea/mybatisboard.iml
 .idea/vcs.xml
 .idea/workspace.xml
+
+application.properties
